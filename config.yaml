@@ -28,15 +28,15 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Manage. Deploy.
+    title: Learn the Skills. Set Goals. Reach for them.
     # Hero subtitle (optional)
-    subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+    subtitle: A community of retail Options Traders.
     # Button text
-    buttontext: Get started
+    buttontext: Get the Launch Announcement
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "#subscribe"
     # Hero image (from static/images/___)
-    image: illustrations/worker.svg
+    image: dmitrii-vaccinium-ByUAo3RpA6c-unsplash.jpg
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
     - systek
