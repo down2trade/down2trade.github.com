@@ -38,12 +38,10 @@ params:
     # Hero image (from static/images/___)
     image: dmitrii-vaccinium-ByUAo3RpA6c-unsplash.jpg
     # Footer logos (from static/images/logos/clients/___.svg)
-    clientlogos:
-    - systek
-    - tribe
-    - kromo
-    - infinite
-    - gutwork
+    toollogos:
+    - tastyworks
+    - tradingview
+    - zoom
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Features

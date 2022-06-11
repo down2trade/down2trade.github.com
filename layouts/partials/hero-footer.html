@@ -1,0 +1,18 @@
+{{- $hero := .Site.Params.hero }}
+{{- $toollogos := index $hero "toollogos" }}
+<div class="hero-foot mb-20">
+  <div class="container">
+    <div class="tabs is-centered">
+      <ul>
+        {{- range $toollogos }}
+        <li>
+          <a>
+            <img class="partner-logo"
+              src='{{ printf "/images/logos/tools/%s.svg" . | relURL }}'>
+          </a>
+        </li>
+        {{- end }}
+      </ul>
+    </div>
+  </div>
+</div>
