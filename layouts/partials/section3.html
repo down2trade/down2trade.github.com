@@ -1,0 +1,17 @@
+{{- $section3 := .Site.Params.section3 }}
+{{- $video := index $section3 "video" }}
+<section class="section section-feature-grey is-medium">
+  <a name="video-welcome"></a>
+  <div class="container">
+    <div class="columns">
+      <div class="column is-10 is-offset-1">
+        <div class="has-text-centered">
+          <iframe class="pushed-image" style="width: 100%; height: 600px;"
+            src='{{ printf "https://www.youtube-nocookie.com/embed/%s?autoplay=0&&showinfo=0&rel=0" $video | relURL }}'
+            frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+            type="text/html" allowfullscreen=""></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

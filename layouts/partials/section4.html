@@ -1,0 +1,26 @@
+{{- $section4 := .Site.Params.section4 }}
+{{- $face := index $section4 "face" }}
+{{- $name := index $section4 "name" }}
+{{- $title := index $section4 "title" }}
+{{- $bio := index $section4 "bio" }}
+<section class="section is-medium section-secondary">
+  <a name="instructor-bio"></a>
+  <div class="container">
+    <div class="title-wrapper has-text-centered">
+      <figure class="image is-256x256 is-inline-block">
+        <img class="is-rounded"
+          src='{{ printf "/images/faces/%s.jpg" $face | relURL }}'>
+      </figure>
+      <h2 class="title is-2 light-text is-spaced">{{ $name }}</h2>
+      <h3 class="subtitle is-5 light-text">{{ $title }}</h3>
+      <p>{{ $bio }}</p>
+    </div>
+  </div>
+</section>
+
+<style>
+  .image.is-256x256 {
+    width: 256px;
+    height: 256px;
+  }
+</style>
