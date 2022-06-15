@@ -21,7 +21,7 @@ params:
   description:
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/fresh.svg
+    image: logos/down2trade.svg
     link: /
   font:
     name: "Open Sans"
