@@ -80,5 +80,7 @@ params:
       column3:
         title: ""
         links:
-        - text: Privacy Policy
+        - text: Terms of Use
+          link: /pages/terms
+        - text: Customer Privacy Policy
           link: /pages/privacy
