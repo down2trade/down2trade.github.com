@@ -53,11 +53,11 @@ There will be no refunds for early cancellation of Your membership.  If You canc
 
 ## TRADEMARKS
 
-We hereby claim Down2Trade<sup>TM</sup>, the Down2Trade logo<sup>TM</sup>, DOWN2TRADE<sup>TM</sup>, Phalanx Options Strategy<sup>TM</sup>, and Let’s get down to trading<sup>TM</sup> to be trademarks of Our Company.
+We hereby claim Down2Trade<sup>TM</sup>, the Down2Trade logo<sup>TM</sup>, DOWN2TRADE<sup>TM</sup>, Phalanx Options Strategy<sup>TM</sup>, and Let’s get down to trading<sup>TM</sup>, Down2Chat<sup>TM</sup> to be trademarks of Our Company.
 
 ## COPYRIGHT
 
-All content included in Our websites, such as text, graphics, logos, button icons, images, audio clips, and software, is the property of Down2Trade LLC and is protected by U.S. copyright laws. The compilation (meaning the collection, arrangement, and assembly) of all content on Our website is Our exclusive property and protected by U.S. copyright laws. Any use of such content, including the reproduction, modification, distribution, transmission, republication, or display, of the content of Our website is strictly prohibited.
+All content contained in, or provided from or through Our website, Our Beta Trade Room, Our Down2Trade room, Our chat room, or Our courses, whether the content is viewed on Our website or viewed on a third-party’s website, such as text, graphics, logos, button icons, images, audio clips, video clips, coaching sessions, live trade room calls, and software, is the property of Down2Trade LLC and is protected by U.S. copyright laws. The compilation (meaning the collection, arrangement, and assembly) of all content on Our website is Our exclusive property and protected by U.S. copyright laws. Any use of such content, including the recording, reproduction, modification, distribution, transmission, republication, or display is strictly prohibited.
 
 ## INVESTMENT RISKS
 
@@ -65,7 +65,7 @@ All content included in Our websites, such as text, graphics, logos, button icon
 
 ## NOT INVESTMENT ADVICE
 
-**THE INFORMATION CONTAINED IN OR PROVIDED FROM OR THROUGH OUR WEBSITE, OUR BETA TRADE ROOM, OUR DOWN2TRADE ROOM, OR OUR COURSES, WHETHER THE COURSES ARE VIEWED ON OUR WEBSITE OR VIEWED ON A THIRD-PARTY’S WEBSITE, IS NOT TO BE CONSTRUED AS FINANCIAL, LEGAL, OR TAX ADVICE.  THIS INFORMATION IS GENERAL IN NATURE AND IS NOT SPECIFIC TO YOU OR ANYONE ELSE.  THIS INFORMATION IS PROVIDED FOR EDUCATIONAL AND INFORMATIONAL PURPOSES ONLY, WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND, INCLUDING WARRANTIES OF ACCURACY, COMPLETENESS, OR FITNESS FOR ANY PARTICULAR PURPOSE.  YOU SHOULD NOT MAKE ANY DECISION, WHETHER INVESTMENT, TRADING, OR OTHERWISE, BASED ON ANY OF THE INFORMATION PRESENTED WITHOUT UNDERTAKING INDEPENDENT DUE DILIGENCE AND CONSULTATION WITH A PROFESSIONAL FINANCIAL ADVISOR, TAX ADVISOR, OR ATTORNEY.  YOU ASSUME ALL RISKS ASSOCIATED WITH ANY INVESTMENT OR TRADING STRATEGY YOU CHOOSE TO EXECUTE.  WE ARE EXCLUDED FROM SEC REGULATION AS A “PUBLISHER” PROVIDING IMPERSONAL ADVICE NOT TAILORED TO THE INDIVIDUAL NEEDS OF A SPECIFIC CLIENT.**
+**THE INFORMATION CONTAINED IN, OR PROVIDED FROM OR THROUGH OUR WEBSITE, OUR BETA TRADE ROOM, OUR DOWN2TRADE ROOM, OUR CHAT ROOM, OR OUR COURSES, WHETHER THE COURSES ARE VIEWED ON OUR WEBSITE OR VIEWED ON A THIRD-PARTY’S WEBSITE, IS NOT TO BE CONSTRUED AS FINANCIAL, LEGAL, OR TAX ADVICE.  THIS INFORMATION IS GENERAL IN NATURE AND IS NOT SPECIFIC TO YOU OR ANYONE ELSE.  THIS INFORMATION IS PROVIDED FOR EDUCATIONAL AND INFORMATIONAL PURPOSES ONLY, WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND, INCLUDING WARRANTIES OF ACCURACY, COMPLETENESS, OR FITNESS FOR ANY PARTICULAR PURPOSE.  YOU SHOULD NOT MAKE ANY DECISION, WHETHER INVESTMENT, TRADING, OR OTHERWISE, BASED ON ANY OF THE INFORMATION PRESENTED WITHOUT UNDERTAKING INDEPENDENT DUE DILIGENCE AND CONSULTATION WITH A PROFESSIONAL FINANCIAL ADVISOR, TAX ADVISOR, OR ATTORNEY.  YOU ASSUME ALL RISKS ASSOCIATED WITH ANY INVESTMENT OR TRADING STRATEGY YOU CHOOSE TO EXECUTE.  WE ARE EXCLUDED FROM SEC REGULATION AS A “PUBLISHER” PROVIDING IMPERSONAL ADVICE NOT TAILORED TO THE INDIVIDUAL NEEDS OF A SPECIFIC CLIENT.**
 
 ## WARRANTIES
 
