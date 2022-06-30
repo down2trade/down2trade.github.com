@@ -1,4 +1,4 @@
 ---
 layout: redirect
-external_url: https://down2trade.thinkific.com/enrollment
+external_url: https://down2trade.thinkific.com/enrollments
 ---
