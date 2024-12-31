@@ -1,2 +1,5 @@
 github.com/StefMa/hugo-fresh v0.0.0-20220303155657-8a3fe0559acf h1:TO5yCImzeAKlFbIbAvvaN4s1mP45RV4NMoCuXe6zve8=
 github.com/StefMa/hugo-fresh v0.0.0-20220303155657-8a3fe0559acf/go.mod h1:0kyrjS5vdFJ47D7bPs6JwXTkctiMaQbToeBaOQsw1Tw=
+github.com/StefMa/hugo-fresh v1.2.0 h1:F7j98xExM7Iu/Mz7uzgNBfPuwB3zufe4cfArSxCxpkM=
+github.com/StefMa/hugo-fresh v1.2.0/go.mod h1:yRzHyco0bfnITjvq7rfAiOADfGMrDlM0kXeKBllUJEc=
+github.com/jgthms/bulma v0.0.0-20220508134905-3e00a8e6d0d0/go.mod h1:89FLBKXYFKfOKAoDeUT26V0pHGwzr205cMXAEqtAVOI=
