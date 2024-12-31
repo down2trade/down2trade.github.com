@@ -4,6 +4,7 @@ title: Down2Trade
 module:
   imports:
     path: github.com/StefMa/hugo-fresh
+googleAnalytics:
 disableKinds:
 - taxonomy
 markup:
