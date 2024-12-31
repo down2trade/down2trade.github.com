@@ -4,8 +4,6 @@ title: Down2Trade
 module:
   imports:
     path: github.com/StefMa/hugo-fresh
-googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
-# Disables warnings
 disableKinds:
 - taxonomy
 - taxonomyTerm
@@ -13,74 +11,12 @@ markup:
   goldmark:
     renderer:
       unsafe: true # Allows you to write raw html in your md files
-
 params:
-  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
-  openGraph: true
-  # Used as meta data; describe your site to make Google Bots happy
-  description: Learn the Down2Trade 0DTE SPX Options Trading strategy. Learn from our mistakes and successes while you watch LIVE as we trade.
-  navbarlogo:
-  # Logo (from static/images/logos/___)
-    image: logos/down2trade.svg
-    link: /
+  openGraph: false
+  description: Down2Trade is closed for business.
   font:
     name: "Open Sans"
     sizes: [400,600]
-  hero:
-    # Main hero title
-    title: Learn the Skills. Set Goals. Reach for them.
-    # Hero subtitle (optional)
-    subtitle: A community of retail Options Traders.
-    # Button text
-    buttontext: Get the Launch Announcement
-    # Where the main hero button links to
-    buttonlink: "#subscribe"
-    # Hero image (from static/images/___)
-    image: dmitrii-vaccinium-ByUAo3RpA6c-unsplash.jpg
-    # Footer logos (from static/images/logos/clients/___.svg)
-    toollogos:
-    - tastyworks
-    - tradingview
-    - zoom
-  navbar:
-  - title: Video Welcome
-    url: /#video-welcome
-  - title: Instructor Bio
-    url: /#instructor-bio
-  - title: Pre-order
-    url: /#subscribe
-    button: true
-  section3:
-    video: GjQu7WO2Fe4
-  section4:
-    face: ahmet
-    name: Ahmet Candan
-    title: Co-founder Down2Trade, LLC
-    bio: Ahmet spent the last 9 years learning and perfecting different trading strategies. After 11 years of dedicated service, Ahmet left the California Highway Patrol to become a full-time, retail day trader. He has spent countless hours optimizing every parameter of his Phalanx Options Strategy using real-time, live trades (not historical data), and he was able to develop a set of tools to further increase his success rate.
-  section5: true
+  section3: true
   footer:
-    # Logo (from /images/logos/___)
     logo: down2trade-white-alt.svg
-    # Social Media Title
-    socialmediatitle: Follow Us
-    # Social media links (GitHub, Twitter, etc.). All are optional.
-    # Icons are from Font Awesome
-    socialmedia:
-    - link: https://www.youtube.com/down2trade
-      icon: youtube-play
-    - link: https://twitter.com/down_2_trade
-      icon: twitter
-    - link: https://www.facebook.com/Down2Trade
-      icon: facebook
-    quicklinks:
-      column1:
-        title: ""
-      column2:
-        title: ""
-      column3:
-        title: ""
-        links:
-        - text: Terms of Use
-          link: /pages/terms
-        - text: Customer Privacy Policy
-          link: /pages/privacy
