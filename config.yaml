@@ -6,7 +6,6 @@ module:
     path: github.com/StefMa/hugo-fresh
 disableKinds:
 - taxonomy
-- taxonomyTerm
 markup:
   goldmark:
     renderer:
